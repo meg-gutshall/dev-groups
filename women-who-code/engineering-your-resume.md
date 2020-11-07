@@ -53,12 +53,20 @@ Anything!
 
 ### Name and Contact Info
 
+#### Required
+
 * Name
 * Phone number
-* Email
-* Address... maybe
+* Email address
+
+#### Optional
+
+* City/address
   * Include city and state if you're applying for a job in your city
   * Don't include address if the company will have to pay for relocation
+* GitHub
+* LinkedIn
+* Personal website
 
 ### Objective
 
@@ -138,12 +146,12 @@ Tailor your experiences to paint a picture.
 **Tip:** Your resume should stand out even if someone only has 10 seconds to read it.
 
 **Myth:** Recruiters and hiring managers will always click through to your GitHub and portfolio.  
-**Tip:** Include details about your projects on your resume.
+**Tip:** The important parts of your GitHub should also be included in your resume.
 
 **Myth:** "Resume speak" is important to sound professional on a resume.  
 **Tip:** Explain your projects mostly the same way you would explain them to a friend.
 
-**Myth:** You can submit the same resume to every role you apply to.  
+**Myth:** You only need one resume no matter what types of jobs you're applying to.  
 **Tip:** Have a different resume for at least every role \(software engineering, data analytics, QA\).
 
 ## Sources
