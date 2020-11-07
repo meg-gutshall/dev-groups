@@ -146,3 +146,17 @@ Tailor your experiences to paint a picture.
 **Myth:** You can submit the same resume to every role you apply to.  
 **Tip:** Have a different resume for at least every role \(software engineering, data analytics, QA\).
 
+## Sources
+
+### Video
+
+
+
+### Slides
+
+{% embed url="https://drive.google.com/file/d/1RGIRwLH6M-5\_I0ZC0fDmCAl\_PRkxEZE2/view?usp=sharing" %}
+
+### Resume Templates
+
+{% embed url="https://drive.google.com/file/d/1y3g8Z-BeQOPBbb0TgpDoyRm4UfziGiqn/view?usp=sharing" %}
+
