@@ -31,6 +31,7 @@
   * [Arrays and Lists + Understanding Benefits and Compensation](interview-prep-series/arrays-and-lists-+-understanding-benefits-and-compensation.md)
   * [Trees and Binary Search Trees + Building a Digital Career](interview-prep-series/trees-and-binary-search-trees-+-building-a-digital-career.md)
   * [Stacks and Queues + Types of Technical Interviews](interview-prep-series/stacks-and-queues-+-types-of-technical-interviews.md)
+  * [STAR Interviewing Method + Graphs](interview-prep-series/star-interviewing-method-+-graphs.md)
 
 ## Women Who Code
 
