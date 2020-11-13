@@ -60,3 +60,8 @@
   * [Classes and Prototypes](codesmith/javascript-the-hard-parts/classes-and-prototypes.md)
   * [Async & Promises](codesmith/javascript-the-hard-parts/async-and-promises.md)
 
+## Virtual Coffee
+
+* [Brownbags](virtual-coffee/brownbags/README.md)
+  * [Git](virtual-coffee/brownbags/git.md)
+
