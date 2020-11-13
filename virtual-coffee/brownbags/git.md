@@ -51,7 +51,13 @@ git reflog --&gt; shows everything you did step-by-step
 
 Cardinal rule of git: If you have committed it, you can get it back.
 
+### Screenshots
 
+![](../../.gitbook/assets/screen-shot-2020-11-13-at-1.36.28-pm.png)
 
+![](../../.gitbook/assets/screen-shot-2020-11-13-at-1.37.07-pm.png)
 
+![](../../.gitbook/assets/screen-shot-2020-11-13-at-1.46.56-pm.png)
+
+![](../../.gitbook/assets/screen-shot-2020-11-13-at-2.20.02-pm.png)
 
