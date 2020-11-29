@@ -158,7 +158,7 @@ Tailor your experiences to paint a picture.
 
 ### Video
 
-
+{% embed url="https://www.youtube.com/watch?v=Ae2G2InKffY&feature=youtu.be" %}
 
 ### Slides
 
