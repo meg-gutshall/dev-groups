@@ -9,8 +9,6 @@ description: 12/16/20
 
 ## Part I
 
-### Video
-
 
 
 ## Part II
@@ -72,4 +70,8 @@ description: 12/16/20
   * Using jargon, abbreviation, or insider terms
 * Extraneous content
 * Grammatical errors/typos
+
+## Resources
+
+{% embed url="https://bfdpreview.mtlynch.io/" caption="Preview of the final course with slides included" %}
 
