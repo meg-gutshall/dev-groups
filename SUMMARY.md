@@ -65,3 +65,7 @@
 * [Brownbags](virtual-coffee/brownbags/README.md)
   * [Git](virtual-coffee/brownbags/git.md)
 
+## Blogging for Devs
+
+* [Hit the Front Page of Hacker News](blogging-for-devs/hit-the-front-page-of-hacker-news.md)
+
