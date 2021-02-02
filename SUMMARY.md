@@ -36,6 +36,7 @@
 ## Women Who Code
 
 * [Engineering Your Resume](women-who-code/engineering-your-resume.md)
+* [Software Engineering Interview Preparation: Mindset and Planning](women-who-code/software-engineering-interview-preparation-mindset-and-planning.md)
 
 ## The Dev Talk Show
 
