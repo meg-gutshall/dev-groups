@@ -155,3 +155,15 @@ Most often go with an adjacency list
 
 
 
+## Post Meetup Notes
+
+Graph problems:  
+[https://en.wikipedia.org/wiki/Travelling\_salesman\_problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)  
+[https://en.wikipedia.org/wiki/Graph\_coloring](https://en.wikipedia.org/wiki/Graph_coloring)  
+  
+Trie:[https://en.wikipedia.org/wiki/Trie](https://en.wikipedia.org/wiki/Trie)  
+  
+Github with implementation of BFS/DFS used: [https://github.com/albendz/albendz-code-share/blob/mainline/kotlin/problems/src/main/kotlin/com/alicia/problems/graph/GraphSearch.kt](https://github.com/albendz/albendz-code-share/blob/mainline/kotlin/problems/src/main/kotlin/com/alicia/problems/graph/GraphSearch.kt)
+
+Event recording: [https://youtu.be/CV9h8utximU](https://youtu.be/CV9h8utximU)
+

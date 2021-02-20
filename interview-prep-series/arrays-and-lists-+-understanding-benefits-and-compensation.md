@@ -37,3 +37,13 @@ Parts of this event have be pre-recorded and there will be an additional recordi
 
 Event recording: [https://www.youtube.com/watch?v=VVQ8YWmlm\_0&feature=youtu.be](https://www.youtube.com/watch?v=VVQ8YWmlm_0&feature=youtu.be)
 
+## Post Meetup Notes
+
+Thank you everyone for attending. I will follow up with the event recording in the next few days. In the meantime, here is the text form of the post presentation cheat sheet:
+
+Arrays Insert: O\(n\) Get: O\(1\) Delete: O\(n\) Search: O\(n\) Ordered elements index-based structure often contiguous in memory; fixed length
+
+Lists Insert: O\(n\) Get: O\(n\) Delete: O\(n\) Search: O\(n\) Linear collection data not adjacent in memory connected by references either single to next or double to previous and next \(more space\). Sentinel, dummy, or null at start and end. Sequential access. Easy to rearrange. Circular. Node or element.
+
+
+

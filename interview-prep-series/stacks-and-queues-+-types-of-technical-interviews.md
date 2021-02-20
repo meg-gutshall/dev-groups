@@ -123,7 +123,26 @@ description: 10/21/20
 * Symmetry or matching
   * Example: Bracket matching, palindrome
 
-## Meetup Notes
+## Post Meetup Notes
 
+Thank you everyone for attending our event this evening. I will share the recording when it is available. In the meantime, here are the links shared in the event:  
+  
+Hackerrank certifications: [https://www.hackerrank.com/skills-verification](https://www.hackerrank.com/skills-verification)  
+STAR technique: [https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique](https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique)  
+  
+Big-O notation links:  
+[https://www.bigocheatsheet.com/](https://www.bigocheatsheet.com/)  
+[https://docs.google.com/presentation/d/1q-yGw-ekqtHOtoCOCxXJIVUpfyg-5CGrX1tZs1PlO2U](https://docs.google.com/presentation/d/1q-yGw-ekqtHOtoCOCxXJIVUpfyg-5CGrX1tZs1PlO2U)  
+  
+Coding questions:  
+[https://leetcode.com/problems/valid-parentheses/](https://leetcode.com/problems/valid-parentheses/)  
+[https://leetcode.com/problems/min-stack/](https://leetcode.com/problems/min-stack/)
 
+We didn't record the second problem but I recorded one of my practices runs for it here \(Min stack\): [https://youtu.be/ht\_Ve0\_zIjs](https://youtu.be/ht_Ve0_zIjs)  
+  
+And while I'm at it, I also practiced the first one \(bracket matching\): [https://www.youtube.com/watch?v=8c-7QpSJmrg](https://www.youtube.com/watch?v=8c-7QpSJmrg)
+
+Another late video follow up for those who stayed late and wanted to see more of the Daily Temperatures problem: [https://youtu.be/3umiy0zjLwI](https://youtu.be/3umiy0zjLwI)
+
+Event video: [https://youtu.be/jjHA4oFoQ5U](https://youtu.be/jjHA4oFoQ5U)
 
